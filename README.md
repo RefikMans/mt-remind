@@ -10,7 +10,7 @@ und es kann losgehen. Führe das Skript aus mit
 
 `python create_reminder.py`
 
-Du wirst nach dem Datum der Musiktage gefragt, welches im richtigen Format angegeben werden muss.
+oder rufe (unter Windows) die .exe Datei auf, die du im Ordner `dist` findest. Du wirst nach dem Datum der Musiktage gefragt, welches im richtigen Format angegeben werden muss.
 
 `Wann finden die Musiktage statt?(YYYY-MM-DD):2023-01-03`
 
